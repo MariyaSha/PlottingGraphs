@@ -7,7 +7,7 @@ With the help of <b>Pytrends</b>, we'll extract data from Google Trends and pres
 <br>
 in the form of graphs and charts with <b>Matplotlib</b> and <b>Pandas</b>.
 <br>
-<b>Also available in a video explination:</b> https://youtu.be/drDdb1MBBfI
+<b>Also available in a video explination:</b> https://youtu.be/MJ1945J_W0c
 <br>
 <b>Author:</b> Mariya Sha
 <br>
