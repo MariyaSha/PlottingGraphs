@@ -1,6 +1,7 @@
 # PlottingGraphs
 
-Find out which programming language is the most popular on Google Trends.
+<b>Find out which programming language is the most popular on Google Trends.</b>
+<br>
 <br>
 With the help of <b>Pytrends</b>, we'll extract data from Google Trends and present it
 <br>
